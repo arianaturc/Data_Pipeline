@@ -1,0 +1,68 @@
+{
+  "drm_version": "1.0.0-stub",
+  "encryption_applied": false,
+  "note": "Stub implementation - no actual encryption performed",
+  "assets_targeted": 10,
+  "assets": [
+    {
+      "asset": "video/h264/4k_h264.mp4",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "856adf5a-ea9a-4a37-84e3-20ba4c615f98"
+    },
+    {
+      "asset": "video/h264/1080p_h264.mp4",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "2313a935-726c-497d-a2e8-f555ad062a2d"
+    },
+    {
+      "asset": "video/h264/720p_h264.mp4",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "8d05e084-380d-494d-a72c-a9ab2bceb833"
+    },
+    {
+      "asset": "video/vp9/4k_vp9.webm",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "8878c820-1392-4977-b735-0da10f38ea82"
+    },
+    {
+      "asset": "video/vp9/1080p_vp9.webm",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "706f5931-61c9-496e-a0e6-6e0b2f905db8"
+    },
+    {
+      "asset": "video/vp9/720p_vp9.webm",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "9f052a47-8527-46d7-ace8-c3b2df1f906b"
+    },
+    {
+      "asset": "video/hevc/4k_hevc.mkv",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "071d1e03-a544-4597-b3cc-c80ff4de9f12"
+    },
+    {
+      "asset": "video/hevc/1080p_hevc.mkv",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "565746e6-dff5-4bc1-9a8c-5c5dbbe8994b"
+    },
+    {
+      "asset": "video/hevc/720p_hevc.mkv",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "a03291f9-45e8-401a-99b8-3bca46d00bf2"
+    },
+    {
+      "asset": "audio/ro_dub_synthetic.aac",
+      "drm_system": "Widevine-STUB",
+      "encryption": "AES-128-CTR",
+      "key_id": "3ee89e92-5100-4c10-9641-c294d62a1876"
+    }
+  ]
+}

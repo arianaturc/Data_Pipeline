@@ -1,0 +1,48 @@
+{
+  "video_duration": 35.1,
+  "intro_end": 1.7550000000000001,
+  "credits_start": 33.345,
+  "total_scenes": 5,
+  "scenes": [
+    {
+      "segment_id": 1,
+      "start_time": 0.0,
+      "end_time": 7.02,
+      "category": "action",
+      "i_frame_count": 8,
+      "i_frame_density": 1.14
+    },
+    {
+      "segment_id": 2,
+      "start_time": 7.02,
+      "end_time": 14.04,
+      "category": "dialogue",
+      "i_frame_count": 7,
+      "i_frame_density": 0.997
+    },
+    {
+      "segment_id": 3,
+      "start_time": 14.04,
+      "end_time": 21.06,
+      "category": "dialogue",
+      "i_frame_count": 7,
+      "i_frame_density": 0.997
+    },
+    {
+      "segment_id": 4,
+      "start_time": 21.06,
+      "end_time": 28.08,
+      "category": "dialogue",
+      "i_frame_count": 7,
+      "i_frame_density": 0.997
+    },
+    {
+      "segment_id": 5,
+      "start_time": 28.08,
+      "end_time": 35.1,
+      "category": "dialogue",
+      "i_frame_count": 7,
+      "i_frame_density": 0.997
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "scan_status": "completed",
+  "scanner_version": "1.0.0-stub",
+  "content_rating": "PG-13",
+  "flags": [
+    {
+      "region": "DE",
+      "type": "violence_index",
+      "severity": "low",
+      "action": "none_required",
+      "timestamp_start": 0.0,
+      "timestamp_end": 0.0
+    }
+  ],
+  "blur_required": false,
+  "approved_regions": [
+    "US",
+    "EU",
+    "RO",
+    "UK",
+    "JP"
+  ]
+}

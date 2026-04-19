@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0.0",
+  "movie_id": "movie_101",
+  "generated_at": "2026-04-19T17:34:09.643407500Z",
+  "pipeline_status": "success",
+  "source": {
+    "checksum_sha256": "b1db2305212963a647978ccdfab452415d1ddea082b1538e28f37efa453ef5ac",
+    "duration_seconds": 35.1,
+    "resolution": "1024x576",
+    "codec": "h264"
+  },
+  "analysis": {
+    "intro_end_seconds": 1.7550000000000001,
+    "credits_start_seconds": 33.345,
+    "scene_count": 5,
+    "complexity_profile": "low"
+  },
+  "video_assets": [
+    "video/h264/4k_h264.mp4",
+    "video/h264/1080p_h264.mp4",
+    "video/h264/720p_h264.mp4",
+    "video/vp9/4k_vp9.webm",
+    "video/vp9/1080p_vp9.webm",
+    "video/vp9/720p_vp9.webm",
+    "video/hevc/4k_hevc.mkv",
+    "video/hevc/1080p_hevc.mkv",
+    "video/hevc/720p_hevc.mkv"
+  ],
+  "audio_assets": [
+    "audio/ro_dub_synthetic.aac"
+  ],
+  "text_assets": [
+    "text/source_transcript.txt",
+    "text/ro_translation.txt"
+  ],
+  "image_assets": [
+    "images/thumbnails/"
+  ],
+  "metadata_assets": [
+    "metadata/scene_analysis.json",
+    "metadata/compliance_report.json",
+    "metadata/branding.json",
+    "metadata/drm_report.json"
+  ],
+  "total_assets": 17
+}

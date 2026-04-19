@@ -1,0 +1,24 @@
+SOURCE TRANSCRIPT (English Master)
+===================================
+Video Duration: 35.1s
+
+[00:00 - 00:07] (action)
+[Sound effects: intense music, impacts]
+[No dialogue detected]
+
+[00:07 - 00:14] (dialogue)
+[Speaker 1]: This is a sample dialogue line.
+[Speaker 2]: And this is the response.
+
+[00:14 - 00:21] (dialogue)
+[Speaker 1]: This is a sample dialogue line.
+[Speaker 2]: And this is the response.
+
+[00:21 - 00:28] (dialogue)
+[Speaker 1]: This is a sample dialogue line.
+[Speaker 2]: And this is the response.
+
+[00:28 - 00:35] (dialogue)
+[Speaker 1]: This is a sample dialogue line.
+[Speaker 2]: And this is the response.
+

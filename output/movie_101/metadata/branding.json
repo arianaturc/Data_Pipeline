@@ -1,0 +1,17 @@
+{
+  "branding_version": "1.0.0",
+  "overlays": [
+    {
+      "region": "US",
+      "logo": "studio_original_us.png",
+      "position": "top-left",
+      "display_duration_seconds": 5
+    },
+    {
+      "region": "RO",
+      "logo": "studio_original_ro.png",
+      "position": "top-left",
+      "display_duration_seconds": 5
+    }
+  ]
+}

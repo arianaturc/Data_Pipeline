@@ -1,0 +1,11 @@
+TRANSLATION: RO
+===================================
+Status: STUB - Pending professional translation
+Source: English Master
+Target: ro
+
+[00:00 - 00:07] [ro translation placeholder]
+[00:07 - 00:14] [ro translation placeholder]
+[00:14 - 00:21] [ro translation placeholder]
+[00:21 - 00:28] [ro translation placeholder]
+[00:28 - 00:35] [ro translation placeholder]
